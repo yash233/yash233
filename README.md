@@ -6,9 +6,7 @@
 - 🔭 I’m currently working on *React*
 
 - 🌱 I’m currently learning *Blockchain*
-
-- 👯 I’m looking to collaborate on *YouTube*
-
+- 
 - 🤝 I’m looking for help with *Udemy*
 
 - 💬 Ask me about *WebDev*
@@ -19,9 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vivektarun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivektarun" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/asterisktech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="asterisktech" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vivektarun4423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivektarun4423" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yash-raj-93a8a81b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivektarun" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on *React*
 
 - 🌱 I’m currently learning *Blockchain*
-- 
 - 🤝 I’m looking for help with *Udemy*
 
 - 💬 Ask me about *WebDev*
